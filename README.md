@@ -1,4 +1,4 @@
-# Project Name
+# Task Management System
 
 This Django project provides a RESTful API for managing projects, tasks, and tags. It includes user authentication and pagination for tasks.
 
